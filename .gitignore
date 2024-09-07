@@ -1,0 +1,12 @@
+# Generated files
+/target/
+
+# Compiled output
+**/*.rs.bk
+*.lock
+
+# Dependency directories
+/.cargo/
+
+# Output
+**/*.out

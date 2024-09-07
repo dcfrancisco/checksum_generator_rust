@@ -1,5 +1,3 @@
-Ah, I see! You want to clarify that this tool does not yet generate the same checksum as **COMPUTE! Magazine's** version. In that case, here's how you can adjust the **README.md**:
-
 ### Suggested Placement and Phrasing for the Disclaimer
 
 You can place the disclaimer in the introduction or in a "Note" section after explaining the purpose of the tool, specifically mentioning that it’s not yet compatible with **COMPUTE! Magazine's** checksum format.

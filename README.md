@@ -37,3 +37,7 @@ This project is a Rust-based implementation of a checksum generator for text fil
 ### Explanation:
 - The **Note** section clarifies that this tool does **not** generate the same checksum as the type-in programs from **COMPUTE! Magazine**, ensuring that users understand that this is a different implementation.
 - **Future Improvements** mentions the possibility of adding compatibility with the original **COMPUTE! Magazine** checksum format.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
